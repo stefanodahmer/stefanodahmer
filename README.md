@@ -47,4 +47,4 @@ Implementação de rotinas para cálculo de médias ponderadas e índices de var
 ---
 
 ## 🚀 Objetivo  
-Busco oportunidades em **desenvolvimento de sistemas, análise de dados e banco de dados**, onde eu possa aplicar e expandir meus conhecimentos em **MySQL, Python e BI**, contribuindo para projetos de impacto.  
+Busco oportunidades em **desenvolvimento de sistemas, análise de dados e banco de dados**, onde eu possa aplicar e expandir meus conhecimentos em **MySQL e Python**, contribuindo para projetos de impacto.  
