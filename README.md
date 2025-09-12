@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou Stefano Fiorioli Dahmer  
 
 Sou estudante de **Ciência da Computação na UFRGS**, atualmente na **4ª etapa**, com interesse em **Banco de Dados, Desenvolvimento em Python e Análise de Dados**. Tenho experiência acadêmica e prática em projetos envolvendo **MySQL**, **Python** e , com foco em organização, manipulação e visualização de dados.  
-
-🔗 [Currículo Lattes](http://lattes.cnpq.br/4062835803223916)  
+ 
 E-mail: stefanodahmer04@gmail.com
 
 ---
