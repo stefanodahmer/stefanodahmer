@@ -36,15 +36,14 @@ Modelagem e implementação de um **sistema hospitalar relacional**, abrangendo 
 - Implementação de restrições de integridade referencial.  
 
 ### 📚 Gestão de Biblioteca em MySQL  
-Desenvolvimento de um banco de dados para controle de empréstimos, devoluções e acervo. Incluiu procedures para relatórios de uso e consultas otimizadas.  
+Desenvolvimento de um banco de dados para controle de empréstimos, devoluções e acervo.  
 
 ### 🗂️ Sistema de Cadastro de Pesquisas em Python + MySQL  
-Aplicação em Python com integração a banco SQL para inserção e consulta de dados de pesquisas acadêmicas.  
+Aplicação em Python com integração a banco SQL para inserção e consulta de dados de pesquisas.   
 
-### 📊 Cálculo Automatizado de Índices em Python  
-Implementação de rotinas para cálculo de médias ponderadas e índices de variação de preços a partir de planilhas CSV.  
+### 📊 Automação de Processos (Python + PyAutoGUI + Pandas)
+- Automação de tarefas repetitivas em sistemas web, utilizando leitura de dados em CSV com Pandas por meio de simulação de cliques, digitação e navegação automática.
 
----
 
 ## 🚀 Objetivo  
 Busco oportunidades em **desenvolvimento de sistemas, análise de dados e banco de dados**, onde eu possa aplicar e expandir meus conhecimentos em **MySQL e Python**, contribuindo para projetos de impacto.  
