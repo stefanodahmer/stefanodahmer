@@ -21,7 +21,7 @@ E-mail: stefanodahmer04@gmail.com
 
 ## 🛠️ Habilidades Técnicas  
 - **Banco de Dados:** MySQL  
-- **Programação:** Python (manipulação de dados, automação, cálculos)  
+- **Programação:** Java(POO), Python (manipulação de dados, automação, cálculos)  
 - **Outros:** Git/GitHub  
 
 ---
@@ -36,13 +36,16 @@ Modelagem e implementação de um **sistema hospitalar relacional**, abrangendo 
 - Implementação de restrições de integridade referencial.  
 
 ### 📚 Gestão de Biblioteca em MySQL  
-Desenvolvimento de um banco de dados para controle de empréstimos, devoluções e acervo.  
-
-### 🗂️ Sistema de Cadastro de Pesquisas em Python + MySQL  
-Aplicação em Python com integração a banco SQL para inserção e consulta de dados de pesquisas.   
+Desenvolvimento de um banco de dados para controle de empréstimos, devoluções e acervo.     
 
 ### 📊 Automação de Processos (Python + PyAutoGUI + Pandas)
 - Automação de tarefas repetitivas em sistemas web, utilizando leitura de dados em CSV com Pandas por meio de simulação de cliques, digitação e navegação automática.
+
+### 📊 Python Insights – Analisando Dados com Python
+- Análise de base com 50 mil registros de clientes para identificar causas de cancelamento de serviços.
+- Tratamento e limpeza de dados (remoção de nulos, padronização e exclusão de variáveis irrelevantes).
+- Exploração estatística e visualização interativa com pandas e plotly.express.
+
 
 
 ## 🚀 Objetivo  
