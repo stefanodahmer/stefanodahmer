@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Stefano Fiorioli Dahmer  
 
-Sou estudante de **Ciência da Computação na UFRGS**, atualmente na **4ª etapa**, com interesse em **Banco de Dados, Desenvolvimento em Python e Análise de Dados**. Tenho experiência acadêmica e prática em projetos envolvendo **MySQL** e **Python** com foco em organização, manipulação e visualização de dados, além de experiência com Java, Spring Boot e Git.
+Sou estudante de **Ciência da Computação na UFRGS**, atualmente na **4ª etapa**, com interesse em **Banco de Dados, Desenvolvimento em Python e Análise de Dados**. Tenho experiência acadêmica e prática em projetos envolvendo **MySQL** e **Python** com foco em organização, manipulação e visualização de dados, além de experiência com Java e Git | Github.
 
 Além da área técnica, possuo grande interesse na área financeira e na administração de negócios, buscando compreender como dados e tecnologia podem auxiliar na tomada de decisões estratégicas, análise de desempenho e otimização de processos empresariais.
 
