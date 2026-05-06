@@ -48,6 +48,10 @@ Desenvolvimento de um banco de dados para controle de empréstimos, devoluções
 - Tratamento e limpeza de dados (remoção de nulos, padronização e exclusão de variáveis irrelevantes).
 - Exploração estatística e visualização interativa com pandas e plotly.express.
 
+### 💼 Repforce Catalog – Full Stack Product Catalog Platform
+- Desenvolvimento de uma aplicação full stack para catálogo de produtos comerciais utilizando React + TypeScript no frontend e Express + TypeScript no backend.
+- Implementação de catálogo responsivo com filtros combinados, paginação, busca em tempo real e integração completa com API REST.
+- Construção de backend com validação utilizando zod, gerenciamento de estado com TanStack Query, estilização moderna com Tailwind CSS e componentização focada em escalabilidade e manutenção.
 
 
 ## 🚀 Objetivo  
